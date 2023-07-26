@@ -4,7 +4,7 @@
 declare(strict_types=1);
 
 
-function distance(string $str1 = "111GAGCCTACTAACGGGAT", string $str2 = "222CATCGTAATGACGGCCT")
+function distance(string $str1 = "GAGCCTACTAACGGGAT", string $str2 = "CATCGTAATGACGGCCT")
 {
 
     if (strlen($str1) !== strlen($str2)) {
@@ -19,9 +19,9 @@ function distance(string $str1 = "111GAGCCTACTAACGGGAT", string $str2 = "222CATC
             $summa += 1;
         }
     }
-
+    echo $summa;
     return $summa;
 
 }
 
-distance("A", "G");
+distance("GAGCCTACTAACGGGAT", "CATCGTAATGACGGCCT");
