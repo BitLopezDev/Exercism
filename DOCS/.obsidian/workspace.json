@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8da2a9c34c40fdea",
+            "id": "e369ba7a2616a6fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript JavaScript/Exercises/ToRNA.md",
+                "file": "TypeScript JavaScript/Methods/IndexOf method.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e6590dbc575aafda",
+            "id": "e33c851738f1f1a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "to do.md",
+                "file": "TypeScript JavaScript/Exercises/isPangram.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to do.md",
+                "file": "TypeScript JavaScript/Exercises/isPangram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "to do.md",
+                "file": "TypeScript JavaScript/Exercises/isPangram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "to do.md"
+                "file": "TypeScript JavaScript/Exercises/isPangram.md"
               }
             }
           }
@@ -159,10 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6590dbc575aafda",
+  "active": "aadb16b03e5be638",
   "lastOpenFiles": [
+    "PHP",
+    "TypeScript JavaScript/Methods/IndexOf method.md",
+    "TypeScript JavaScript/Exercises/isPangram.md",
+    "TypeScript JavaScript/Methods/Splice Method.md",
     "TypeScript JavaScript/Exercises/ToRNA.md",
+    "TypeScript JavaScript/HowTos/AllHowTos.md",
     "to do.md",
+    "TypeScript JavaScript/HowTos/Remove spaces and punctuation from a string in JavaScript.md",
+    "TypeScript JavaScript/HowTos/Remove element from array based on content of element.md",
+    "TypeScript JavaScript/HowTos",
     "TypeScript JavaScript/Methods/Map Method.md",
     "TypeScript JavaScript/Methods/forEach.md",
     "TypeScript JavaScript/Methods/AllMethods.md",
