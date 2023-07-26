@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "be04ca6da90ebbaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c48e20dc329e57f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8da2a9c34c40fdea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript JavaScript/Exercises/ToRNA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6590dbc575aafda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "to do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc61954a0f4ffc73",
+    "type": "split",
+    "children": [
+      {
+        "id": "657bb4f87ce8ff22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aadb16b03e5be638",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "273c505cf6f9b578",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0be13bed3b4a5a3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72bbff1333fc1d82",
+    "type": "split",
+    "children": [
+      {
+        "id": "f245f8c33e249acf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60711365ae88d8bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "to do.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b143270ae718d3cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "to do.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f4840ee4f24572c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "50a5f32f8360a2bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "to do.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e6590dbc575aafda",
+  "lastOpenFiles": [
+    "TypeScript JavaScript/Exercises/ToRNA.md",
+    "to do.md",
+    "TypeScript JavaScript/Methods/Map Method.md",
+    "TypeScript JavaScript/Methods/forEach.md",
+    "TypeScript JavaScript/Methods/AllMethods.md",
+    "JavaScript",
+    "TypeScript JavaScript/Methods/Reduce method.md",
+    "TypeScript JavaScript/Exercises/AllExercies.md",
+    "Conceptos/Callbacks.md",
+    "Conceptos/AllConcepts.md",
+    "Conceptos",
+    "TypeScript JavaScript/Exercises",
+    "Pasted image 20230726130115.png",
+    "TypeScript JavaScript/Methods",
+    "TypeScript/R.md",
+    "TypeScript JavaScript"
+  ]
+}
