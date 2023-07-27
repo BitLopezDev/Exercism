@@ -55,3 +55,5 @@ console.log(myArray); // [1, 2, 4, 5]
 
 In this example, a loop is used to iterate over the elements of the array in reverse order. If an element with value `3` is found, it is removed from the array using the `splice` method.
 
+tag: 
+- methods

@@ -31,3 +31,5 @@ export function toRna3(DNA: string): string {
 }
 ```
 
+tag: 
+- methods

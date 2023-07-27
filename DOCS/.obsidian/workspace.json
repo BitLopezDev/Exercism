@@ -11,12 +11,8 @@
             "id": "e369ba7a2616a6fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript JavaScript/Methods/IndexOf method.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -25,14 +21,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript JavaScript/Exercises/isPangram.md",
+                "file": "TypeScript JavaScript/Methods/Map Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6fb169100b6b067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript JavaScript/Methods/Splice Method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "call",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript JavaScript/Exercises/isPangram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript JavaScript/Exercises/isPangram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,17 +143,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TypeScript JavaScript/Exercises/isPangram.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,26 +162,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aadb16b03e5be638",
+  "active": "e369ba7a2616a6fc",
   "lastOpenFiles": [
-    "PHP",
-    "TypeScript JavaScript/Methods/IndexOf method.md",
-    "TypeScript JavaScript/Exercises/isPangram.md",
-    "TypeScript JavaScript/Methods/Splice Method.md",
-    "TypeScript JavaScript/Exercises/ToRNA.md",
-    "TypeScript JavaScript/HowTos/AllHowTos.md",
-    "to do.md",
-    "TypeScript JavaScript/HowTos/Remove spaces and punctuation from a string in JavaScript.md",
-    "TypeScript JavaScript/HowTos/Remove element from array based on content of element.md",
-    "TypeScript JavaScript/HowTos",
     "TypeScript JavaScript/Methods/Map Method.md",
     "TypeScript JavaScript/Methods/forEach.md",
+    "TypeScript JavaScript/Methods/Splice Method.md",
+    "TypeScript JavaScript/Methods/IndexOf method.md",
+    "Conceptos/Callbacks.md",
+    "TypeScript JavaScript/Methods/Reduce method.md",
+    "TypeScript JavaScript/HowTos/How to Remove spaces and punctuation from a string in JavaScript.md",
+    "TypeScript JavaScript/HowTos/How to Remove element from array based on content of element.md",
+    "TypeScript JavaScript/HowTos/AllHowTos.md",
+    "TypeScript JavaScript/Exercises/ToRNA.md",
+    "TypeScript JavaScript/Exercises/isPangram.md",
+    "Conceptos/AllConcepts.md",
+    "TypeScript JavaScript/Exercises/AllExercies.md",
+    "PHP",
+    "to do.md",
+    "TypeScript JavaScript/HowTos",
     "TypeScript JavaScript/Methods/AllMethods.md",
     "JavaScript",
-    "TypeScript JavaScript/Methods/Reduce method.md",
-    "TypeScript JavaScript/Exercises/AllExercies.md",
-    "Conceptos/Callbacks.md",
-    "Conceptos/AllConcepts.md",
     "Conceptos",
     "TypeScript JavaScript/Exercises",
     "Pasted image 20230726130115.png",

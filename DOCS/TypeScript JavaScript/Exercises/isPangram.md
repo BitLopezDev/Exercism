@@ -1,3 +1,6 @@
+tag: 
+- Exercise
+
 ```typescript
 export function isPangram(sentence : string = 'hgf') : boolean{
 
@@ -39,7 +42,7 @@ export function isPangram(sentence : string = 'hgf') : boolean{
 
 // isPangram('The quick brown fox jumps over the lazy dog');
 ```
-[[Remove element from array based on content of element]] [[Remove spaces and punctuation from a string in JavaScript]]
+[[How to Remove element from array based on content of element]] [[How to Remove spaces and punctuation from a string in JavaScript]]
 [[Splice Method]] [[IndexOf method]]
 
 Other peoples' solutions
@@ -64,4 +67,5 @@ export const isPangram = (s: string): boolean => {
   const regex = /([a-z])(?!.*\1)/g;
   return (s.toLowerCase().match(regex) || []).length === 26;
 };
+
 ```

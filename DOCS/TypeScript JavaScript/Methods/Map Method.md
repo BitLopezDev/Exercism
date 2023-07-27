@@ -1,4 +1,4 @@
-[El método `map` es una función incorporada en TypeScript que crea un nuevo array con los resultados de la llamada a la función indicada aplicados a cada uno de sus elementos](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map) [1](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map). El método `map` invoca la función callback pasada por argumento para cada elemento del Array y devuelve un nuevo Array como resultado [2](https://bing.com/search?q=m%C3%A9todo+map).
+[El método `map` es una función incorporada en TypeScript que crea un nuevo array con los resultados de la llamada a la función indicada aplicados a cada uno de sus elementos](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map) [1](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map). El método `map` invoca la función [[Callbacks]] pasada por argumento para cada elemento del Array y devuelve un nuevo Array como resultado [2](https://bing.com/search?q=m%C3%A9todo+map).
 
 Aquí hay un ejemplo que multiplica por dos los valores de un array:
 
@@ -29,3 +29,5 @@ console.log(outputString); // '123'
 
 
 
+tag: 
+- methods

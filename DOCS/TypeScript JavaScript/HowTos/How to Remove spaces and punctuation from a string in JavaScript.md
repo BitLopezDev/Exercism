@@ -11,3 +11,6 @@ console.log(newString); // "HelloworldHowareyou"
 In this example, the `replace` method is used with a regular expression to match all spaces and punctuation characters in the string. The matched characters are replaced with an empty string, effectively removing them from the string.
 
 You can modify the regular expression to include or exclude specific characters as needed. For example, if you want to keep certain punctuation characters (e.g., periods or commas), you can remove them from the regular expression.
+
+tag: 
+- HowTo

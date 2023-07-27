@@ -1,3 +1,5 @@
+tag: 
+- Exercise
 ```typescript
 export function toRna(dna: string = "ACGT") {
 

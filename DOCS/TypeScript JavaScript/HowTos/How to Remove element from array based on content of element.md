@@ -30,3 +30,7 @@ console.log(myArray); // [1, 2, 4, 5]
 
 
 In this example, the `indexOf` method is used to find the index of the element with value `3` in the array. If the element is found (i.e., if its index is not `-1`), the `splice` method is used to remove it from the array. The original array is modified.
+
+
+tag: 
+- HowTo

@@ -19,3 +19,5 @@ console.log(removedElements); // ['orange']
 
 In this example, the `splice` method is used to remove 1 element from the array `myArray` starting at index 1 and add the elements `'kiwi'` and `'mango'` in its place. The original array is modified and the deleted elements are returned as a new array.
 
+tag: 
+- methods
